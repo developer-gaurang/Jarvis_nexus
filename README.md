@@ -1,6 +1,6 @@
 <div align="center">
-  <img src="<img width="699" height="592" alt="image" src="https://github.com/user-attachments/assets/f6af5ab1-c08d-46b7-82c1-7344c4c318d2" />
-" alt="Jarvis Nexus Logo" width="200"/>
+ <img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/9b757a00-00c9-475d-9779-75e1570fbc96" />
+
 
   <h1>🌌 JARVIS NEXUS</h1>
   <p><strong>Next-Generation Cloud-Connected AI Assistant with 3D UI/UX</strong></p>
