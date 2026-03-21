@@ -64,8 +64,9 @@ The system is decoupled into two primary microservices:
 ## 📸 Screenshots
 
 > *(Replace the default screenshot below with the actual project UI)*
+<img width="1680" height="799" alt="image" src="https://github.com/user-attachments/assets/af9bbb62-8f46-4789-83ee-ea680e7f6bc0" />
 
-![Project Preview](Project_Preview.png)
+![Project Preview]
 
 ---
 
